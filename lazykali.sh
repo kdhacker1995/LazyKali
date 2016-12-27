@@ -3,11 +3,11 @@
 
 ##############################################
 #
-# LazyKali by Reaperz73
+# LazyKali by Koushik suthar
 # Just made this for when I feel lazy
 # Installs quite a few extras to a Fresh Kali:)
 # questions comments or request email me @:
-# reaperz73revived@gmail.com
+# kdhacker1995@gmail.com
 #
 ##############################################
 clear
